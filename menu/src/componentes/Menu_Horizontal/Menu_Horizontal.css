@@ -1,0 +1,7 @@
+.menu {
+    height: 40px;
+    border: 1px solid rgb(214, 46, 16);
+    background-color: beige;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
